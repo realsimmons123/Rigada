@@ -6,7 +6,7 @@
   "repository": "zxc",
   "author": "django",
   "license": "MIT",
-  "private": false，
+  "private": false,
   "scripts": {
     "start": "node app.js"
   },
